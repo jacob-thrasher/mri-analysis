@@ -1,6 +1,6 @@
 # mri-analysis
 
-# Required libraries
+# Non-standard Required libraries
 1. PyTorch
 2. TorchIO
 3. TorchMetrics
